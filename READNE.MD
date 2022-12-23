@@ -1,8 +1,8 @@
-<h1>arab oyunu</h1>
+<h1>Car Game/h1>
 
 
 
-<p>Html, Css, JavaScript araba oynu</p>
+<p>Car Game with Html CSS JavaScript</p>
 
 
 
